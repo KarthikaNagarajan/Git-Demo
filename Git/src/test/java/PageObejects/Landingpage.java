@@ -60,6 +60,9 @@ public class Landingpage {
 	public void checkout() {
 		driver.findElement(checkout);
 		System.out.println("checking git");
+		System.out.println("changes in git");
+		System.out.println("changes in git");
+
 		
 	}
 
