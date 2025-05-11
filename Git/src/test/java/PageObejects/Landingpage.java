@@ -59,6 +59,8 @@ public class Landingpage {
 	}
 	public void checkout() {
 		driver.findElement(checkout);
+		System.out.println("checking git");
+		
 	}
 
 }

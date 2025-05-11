@@ -23,6 +23,7 @@ public WebDriver driver;
 		String gettext=driver.findElement(product).getText().split("-")[0].trim();
 			
 		System.out.println(gettext+ " is the product name");
+		System.out.println("checking git");
 		return gettext;
 			
 		}
